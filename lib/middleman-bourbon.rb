@@ -1,4 +1,4 @@
-require 'middleman-bourbon/version'
+# frozen_string_literal: true
 
 require 'middleman-bourbon/version'
 
