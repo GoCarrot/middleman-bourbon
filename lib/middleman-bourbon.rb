@@ -14,7 +14,6 @@ module MiddlemanBourbon
 
       puts "Bourbon loaded"
     end
-    alias :included :registered
   end
 end
 
